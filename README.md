@@ -28,6 +28,14 @@ The project conforms to the routing requirements specified in `task.md`:
 
 Clean routing rules are pre-configured for deployment via `src/vercel.json` (for Vercel) and `src/.htaccess` (for Apache / shared hosting).
 
+### Live Deployment
+The website is live and hosted at [fastering.is-cool.dev](https://fastering.is-cool.dev):
+- **Homepage**: https://fastering.is-cool.dev/quiz1
+- **Profile**: https://fastering.is-cool.dev/quiz1/profile
+- **Hometown**: https://fastering.is-cool.dev/quiz1/hometown
+- **Local Food**: https://fastering.is-cool.dev/quiz1/food
+- **Tourist Places**: https://fastering.is-cool.dev/quiz1/tourist
+
 ---
 
 ## 3. Web Pages & Screenshots
@@ -123,12 +131,15 @@ Custom CSS variables are defined in `src/css/main.css` for consistent design tok
 ## 5. Project Evaluation & Conclusion
 
 ### Analysis & Evaluation
-- **Strengths**: High visual fidelity, fast load times with zero bundling overhead, full compatibility with both offline file browsing and remote hosting, accessible typography, and intuitive interactive filtering.
-- **Responsive Experience**: Tested across desktop viewports (1264px+) and mobile screens (<991px), ensuring clean collapsing navigation, touch-friendly buttons, and consistent card heights.
+- **Strengths**: Fully data driven in client-side (JS), clean and readable pages, responsive design on mobile and PC Desktop, PWA ready.
+- **Responsive Experience**: Tested across desktop viewports and mobile screens, ensuring clean collapsing navigation, touch-friendly buttons, and consistent card layouts.
 - **Maintainability**: Clear folder hierarchy separating assets, stylesheets, scripts, and quiz pages.
 
 ### Conclusion
-The project fulfills all requirements specified in Quiz 1: comprehensive multi-page structure, clear route naming conventions, responsive layout, dynamic project catalog, authentic imagery for Surabaya's culinary and tourist landmarks, and a clean, comment-free codebase.
+This project contains all the necessary requirements for Quiz Webpro. All projects, foods, and tourist places are my choices and i have tried them which mark experience to me. I hope can find interest on my lists provided in web. You can also click on any projects (title) of mine which redirect to either github repo or actual game link to play. Thanks and best regards.
+
+### Note on AI Usage  
+From the start, i have planned to structure the folders separating by file type. I have experience using bootstrap framework 5+ years ago so i start with navbar, sections, and grids. Sometimes i forgot how to make grids and cards so i asked AI and relearn from it again. *BramsCo De Maneuvre*, *Man of Strategy*, Biography, and skills are my own written content. For hometown, food, and tourist places, i listed my own interesting choice and ask ai to fix my writing/information and add some edit to it. 
 
 ---
 
@@ -136,7 +147,9 @@ The project fulfills all requirements specified in Quiz 1: comprehensive multi-p
 
 “By the name of Allah (God) Almighty, I hereby pledge and declare that I have completed Quiz 1 independently. I have not engaged in cheating, plagiarism, or received unauthorized assistance in any form. I further declare that any use of AI tools was limited to a supportive role (such as for grammar checking or debugging), and that the final solution is the product of my own intellectual effort. I understand that I will accept all consequences if I am found to have violated this academic integrity pledge.”
 
-Surabaya, 24 September 2026
+Surabaya, 25 September 2026
+
+![signature](screenshots/signature.png)
 
 **Muhammad Brahmana Priambudi**  
 NRP: 5025251129

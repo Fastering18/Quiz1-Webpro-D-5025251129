@@ -142,14 +142,3 @@ This project contains all the necessary requirements for Quiz Webpro. All projec
 From the start, i have planned to structure the folders separating by file type. I have experience using bootstrap framework 5+ years ago so i start with navbar, sections, and grids. Sometimes i forgot how to make grids and cards so i asked AI and relearn from it again. *BramsCo De Maneuvre*, *Man of Strategy*, Biography, and skills are my own written content. For hometown, food, and tourist places, i listed my own interesting choice and ask ai to fix my writing/information and add some edit to it. 
 
 ---
-
-## 6. Academic Integrity Pledge
-
-“By the name of Allah (God) Almighty, I hereby pledge and declare that I have completed Quiz 1 independently. I have not engaged in cheating, plagiarism, or received unauthorized assistance in any form. I further declare that any use of AI tools was limited to a supportive role (such as for grammar checking or debugging), and that the final solution is the product of my own intellectual effort. I understand that I will accept all consequences if I am found to have violated this academic integrity pledge.”
-
-Surabaya, 25 September 2026
-
-![signature](screenshots/signature.png)
-
-**Muhammad Brahmana Priambudi**  
-NRP: 5025251129
